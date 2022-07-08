@@ -1,4 +1,5 @@
 # gitsubtree-lib-1
 
 # subtree merge test!
-# subtree merget test 2
+# subtree merge test 2
+# subtree merge test 3
