@@ -10,3 +10,5 @@
 
 # auto push test 1
 # auto push test 2
+
+# edit subtree in Parents && set post-update hook
